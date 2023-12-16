@@ -540,6 +540,26 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
+.h-10 {
+  height: 2.5rem;
+}
+
+.h-screen {
+  height: 100vh;
+}
+
+.bg-\[url\(\/public\/img\/bg-1\.avif\)\] {
+  background-image: url(/public/img/bg-1.avif);
+}
+
+.bg-cover {
+  background-size: cover;
+}
+
+.bg-center {
+  background-position: center;
+}
+
 .text-red-600 {
   --tw-text-opacity: 1;
   color: rgb(220 38 38 / var(--tw-text-opacity));
